@@ -50,13 +50,13 @@ cascading style sheets
 **8.** In what tag does the majority of your code belong?
 <!-- enter you answer in the space below -->
 ```
-
+<body>
 ```
 
 **9.** What three tags can be used to make lists (not list items)?
 <!-- enter you answer in the space below -->
 ```
-
+ul
 ```
 
 **10.** Define the display `:flex property:`
@@ -68,5 +68,5 @@ cascading style sheets
 **11.** What `CSS` properties affect the size of a box model?
 <!-- enter you answer in the space below -->
 ```
-
+height, width
 ```
